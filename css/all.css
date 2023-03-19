@@ -7802,6 +7802,10 @@
   .text-white {
     color: #fff !important;
   }
+
+  .text-1{
+    color: #0a58ca;
+  }
   
   .text-body {
     color: rgba(0, 0, 0, 0.87) !important;
